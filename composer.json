@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jabbtech\\Searchable\\": "src/"
+            "Onepage\\Searchable\\": "src/"
         }
     },
     "minimum-stability": "stable"
