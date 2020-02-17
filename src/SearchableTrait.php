@@ -1,4 +1,4 @@
-<?php namespace onepage\Searchable;
+<?php namespace Onepage\Searchable;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Query\Expression;
