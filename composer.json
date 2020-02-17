@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/database": "^6.0",
+        "illuminate/database": "^5.8",
         "ext-mbstring": "*"
     },
     "autoload": {
