@@ -1,4 +1,4 @@
-<?php namespace Jabbtech\Searchable;
+<?php namespace onepage\Searchable;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Query\Expression;
